@@ -1,0 +1,9 @@
+denodo-cicd-portfolio/
+├── vql-scripts/
+│   └── (your Denodo view definitions go here)
+├── .github/
+│   └── workflows/
+│       └── deploy.yml      ← this replaces .gitlab-ci.yml
+├── docs/
+│   └── architecture.png    ← diagram, add later
+└── README.md               ← already drafted, upload this
